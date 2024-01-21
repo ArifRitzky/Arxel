@@ -1,0 +1,9 @@
+[[redirects]]
+  from = "/*"
+  to = "/belajar.html"
+  status = 200
+
+[[redirects]]
+  from = "/404.html"
+  to = "/belajar.html"
+  status = 404
